@@ -1,3 +1,6 @@
+# remove data directory because it is to big
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
