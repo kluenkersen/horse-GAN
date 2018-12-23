@@ -6,6 +6,13 @@ Before you start:
 downloaded data from:
 https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/horse2zebra.zip
 
+
+special thanks to :-)
+
+https://github.com/aitorzip/PyTorch-CycleGAN
+https://hardikbansal.github.io/CycleGANBlog/
+
+
 ```
 mkdir data
 cd data
